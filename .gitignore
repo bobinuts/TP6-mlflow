@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+data/
+session_fermee/
+export_session.zip
